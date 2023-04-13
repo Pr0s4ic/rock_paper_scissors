@@ -9,8 +9,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: black;
-    color: white;
+    background: pink;
     height: 4em;
 }
 
@@ -40,8 +39,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: black;
-    color: white;
+    background: pink;
     height: 5em;
     width: 10em;
 }
